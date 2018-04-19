@@ -21,3 +21,5 @@ const routes: Routes = [
 })
 
 export class AppRoutingModule {}
+
+export const routingComponents = [HomeComponent, AboutComponent];
